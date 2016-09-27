@@ -1,0 +1,12 @@
+﻿  Engine.cpp
+\\banner.main.ad.rit.edu\students\nap2440\igmprofile\documents\visual studio 2015\projects\helloquadhw\helloquadhw\engine.cpp(14): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+\\banner.main.ad.rit.edu\students\nap2440\igmprofile\documents\visual studio 2015\projects\helloquadhw\helloquadhw\engine.cpp(262): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+\\banner.main.ad.rit.edu\students\nap2440\igmprofile\documents\visual studio 2015\projects\helloquadhw\helloquadhw\engine.cpp(287): warning C4305: 'initializing': truncation from 'double' to 'float'
+\\banner.main.ad.rit.edu\students\nap2440\igmprofile\documents\visual studio 2015\projects\helloquadhw\helloquadhw\engine.cpp(292): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+\\banner.main.ad.rit.edu\students\nap2440\igmprofile\documents\visual studio 2015\projects\helloquadhw\helloquadhw\engine.cpp(293): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Model.cpp
+  Camera.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  HelloQuadHW.vcxproj -> \\banner.main.ad.rit.edu\students\nap2440\IGMProfile\Documents\Visual Studio 2015\Projects\HelloQuadHW\Debug\HelloQuadHW.exe
